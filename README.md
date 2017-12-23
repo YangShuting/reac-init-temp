@@ -1,5 +1,6 @@
 ##初始化修改
 1. 添加 scss，bootstrap
+    npm start //开始
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
